@@ -215,7 +215,7 @@ Write your mail here.
 
 	</section>
 
-	<p><a href=#top>Go to the top</a></p>
+	<p><a href=#top>Go to the top!</a></p>
 	</blockquote>
 
 </body>
