@@ -38,7 +38,6 @@
 	
 	<br>
 	
-	<section class="type2">
 	<section class="type1">
 
 	<h2 id="bio">Bio</h2><!--Brief biography of the author-->
@@ -50,6 +49,8 @@
 	</blockquote>
 	
 	</section>
+
+	<br>
 
 	<section class="type1">
 
@@ -66,11 +67,9 @@
 	</blockquote>
 
 	</section>
-	</section>
 
-	<hr>
+	<br>
 
-	<section class="type2">
 	<section class="type1">
 
 	<h2 id="ca">Club activities</h2><!--Prior and current extra-curricular activities-->
@@ -84,9 +83,10 @@
 			<li><b>The scouts of the First bosniak Gymnasium</b></li>
 		</ul>
 		</blockquote>
-		<br>
 
 	</section>
+
+	<br>
 
 	<section class="type1">
 
@@ -110,11 +110,9 @@
 	</blockquote>
 
 	</section>
-    </section>
 
-    <hr>
+	<br>
 
-	<section class="type2">
 	<section class="type1">
 
 	<h2 id="we">Work Experience</h2><!--List of prior and current work experience-->
@@ -129,6 +127,9 @@
 	</blockquote>
 
 	</section>
+
+	<br>
+
 	<section class="type1">
 
 	<h2 id="lk">Language knowledge</h2><!--List of author's comprehended languages-->
@@ -149,12 +150,10 @@
 		</ul>
 	</p>
 	</blockquote>
+
+	</section>
+
 	<br>
-
-	</section>
-	</section>
-
-	<hr>
 
 	<section class="type1">
 
@@ -170,25 +169,22 @@
 
 	</section>
 
-	<hr>
+	<br>
 
-	<section>
+	<section class="type1">
 
 	<h2 id="g">Gallery</h2><!--A gallery of author's pictures-->
-		<img src="source_pic\eso1.jpg" alt="SAMPLE IMAGE" title="Graduate Pic Eso" width="110" align="left"><br>
-		<br><br><h3>This is my graduation photo picture taken around summer 2018.</h3>
-		<img src="source_pic\eso2.jpg" alt="SAMPLE IMAGE" title="Graduate Pic Eso" width="200" align="left"><br>
-		<br><br><h3>This is my photo from some wedding i don't remember.</h3>
-		<img src="source_pic\eso3.jpg" alt="SAMPLE IMAGE" title="Graduate Pic Eso" width="250" align="left"><br>
-		<br><h3>This is a photo taken in Istanbul during spring of 2016.</h3>
-		<br><br><img src="source_pic\eso4.jpg" alt="SAMPLE IMAGE" title="Graduate Pic Eso" width="200" align="left"><br>
-		<br><br><br><h3>This is my photo from a footbal tournament. I used to be the goalkeeper many times.</h3><br><br>
-		<img src="source_pic\eso5.jpg" alt="SAMPLE IMAGE" title="Graduate Pic Eso" width="200" align="left"><br>
-		<br><br><h3>This is a photo during the 2017. First Bosniak Gymnasium graduation ceremony.</h3><br><br><br><br><br><br><br><br><!--Breakes used to leverage the horizontal break-->
+		<table align="center">
+			<tr> <td><img src="source_pic\eso1.jpg" alt="SAMPLE IMAGE" title="Graduate Pic Eso" width="110" align="center"></td> <td><figcaption>This is my graduation photo picture taken around summer 2018.</figcaption></td>
+			<tr> <td><img src="source_pic\eso2.jpg" alt="SAMPLE IMAGE" title="Wedding Pic Eso" width="200" align="center"></td> <td><figcaption>This is my photo from some wedding i don't remember.</figcaption></td>
+			<tr> <td><img src="source_pic\eso3.jpg" alt="SAMPLE IMAGE" title="Travel Pic Eso" width="250" align="center"></td> <td><figcaption>This is a photo taken in Istanbul during spring of 2016.</figcaption></td>
+			<tr> <td><img src="source_pic\eso4.jpg" alt="SAMPLE IMAGE" title="Goalkeeper Pic Eso" width="200" align="center"></td> <td><figcaption>This is my photo from a footbal tournament. I used to be the goalkeeper many times.</figcaption></td>
+			<tr> <td><img src="source_pic\eso5.jpg" alt="SAMPLE IMAGE" title="Graduation Pic2 Eso" width="200" align="center"></td> <td><figcaption>This is a photo during the 2017. First Bosniak Gymnasium graduation ceremony.</figcaption></td>
+		</table>
 	
 	</section>
 
-	<hr>
+	<br>
 
 	<section class="type3">
 
@@ -201,7 +197,6 @@
 		<a href="https://www.facebook.com/esref.mehanovic/"><img src="source_pic\fb.png" alt="SAMPLE IMAGE" title="My facebook profile" width="50" ></a>
 		<a href="https://github.com/es019"><img src="source_pic\gh.png" alt="SAMPLE IMAGE" title="My github profile" width="50" ></a>
 		<br><br>
-
 
 		You are free to contact me whenever you want. Here is a form where you can write me an email.
 	</p>
